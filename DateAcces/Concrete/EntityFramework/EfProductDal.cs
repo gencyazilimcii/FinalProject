@@ -14,7 +14,6 @@ namespace DataAcces.Concrete.EntityFramework
     public class EfProductDal : IProductDal
     {
         
-
         public void Add(Product entity)
         {
             //IDısposable pattern implementation of c#
